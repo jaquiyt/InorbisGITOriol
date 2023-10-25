@@ -1,6 +1,4 @@
 
-
-
 sumar=0
 for i in range(0, 100):
     sumar=sumar+1
